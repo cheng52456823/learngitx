@@ -4,3 +4,4 @@
 git is good
 git is easy use
 git is vert useful
+boss is stupid
